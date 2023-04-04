@@ -63,9 +63,7 @@ stages = ['''
       |
 =========
 ''']
-#     TODO-2 - Ask the user to guess a letter and assign their answer to a variable
-#     called guess. Make guess lowercase.
-"""
+
 
 
 """
@@ -77,7 +75,6 @@ for letter in range(len(chosen_word)):
 
 game_over = False
 lives = 6
-# Step 4
 
 
 while game_over is not True:
